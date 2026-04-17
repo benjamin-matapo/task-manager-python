@@ -10,7 +10,7 @@ A simple REST API for managing tasks, built with Python and Flask
 
 ## Tech Stack
 
-- Python 3.14.4
+- Python 3.12.4
 - Flask
 
 ## How it was made
